@@ -1,9 +1,6 @@
 # ECE499 Thesis
 
-
-
-### Images
-
-![bri.webp](readme_assets/bri.webp)
-![hb+bri.png](readme_assets/hb+bri.png)
-![hb.png](readme_assets/hb.png)
+<div align="center">
+    <img src="readme_assets/hb_bri.png" alt="Holland Blooriew Kids Rehabilitation Hospital / Bloorview Research Institute" height="120" style="height:120px; width:auto;">
+</div>
+<br>
