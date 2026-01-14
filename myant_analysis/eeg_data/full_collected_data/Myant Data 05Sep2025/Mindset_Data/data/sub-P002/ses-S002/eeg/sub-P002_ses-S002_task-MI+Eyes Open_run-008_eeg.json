@@ -1,0 +1,18 @@
+{
+    "TaskName": "MI+Eyes Open",
+    "Manufacturer": "Brain Products",
+    "PowerLineFrequency": 60.0,
+    "SamplingFrequency": 500.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 15.046,
+    "RecordingType": "continuous",
+    "EEGReference": "A2",
+    "EEGGround": "A2",
+    "EEGPlacementScheme": "based on the extended 10/20 system",
+    "EEGChannelCount": 2,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0
+}

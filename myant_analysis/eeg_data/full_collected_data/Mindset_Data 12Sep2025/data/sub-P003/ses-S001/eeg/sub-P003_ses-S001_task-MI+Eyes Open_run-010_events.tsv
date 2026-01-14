@@ -1,0 +1,3 @@
+﻿onset	duration	trial_type	value	sample
+0.2	10.0	{"status": "initialize"}	2	100
+3.32	10.0	{"status": "Eyes Open"}	1	1660

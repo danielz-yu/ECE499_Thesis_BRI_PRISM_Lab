@@ -1,0 +1,32 @@
+{
+    "tasks": [
+        "Neutral",
+        "Eyes Open",
+        "Eyes Closed"
+    ],
+    "startup_actions": [],
+    "task_start_actions": [],
+    "task_end_actions": [],
+    "navigation": "Automatic",
+    "cue_duration": 3.0,
+    "task_duration": 10.0,
+    "bg_color": "52,59,72,255",
+    "text_color": "221,221,221,255",
+    "l_freq": 7.0,
+    "h_freq": 25.0,
+    "l_baseline": 0.0,
+    "h_baseline": 0.0,
+    "tmin": 0.0,
+    "tmax": 10.0,
+    "device": "Brain Products",
+    "paradigm": "MI",
+    "task": "Eyes Open",
+    "lsl_stream_name": "LiveAmpSN-102108-1165",
+    "lsl_stream_type": "EEG",
+    "lsl_ch_names": "Fp1,Fp2",
+    "lsl_sel_chs": "Fp1,Fp2",
+    "lsl_ref_ch": "A2",
+    "lsl_gnd_ch": "A2",
+    "timestamp": "2025-09-05 16:30:59",
+    "mindset_version": "v2.2.7"
+}
