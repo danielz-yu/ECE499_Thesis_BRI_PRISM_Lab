@@ -40,15 +40,10 @@ Brain-Computer Interfaces
 <br>
 <br>
 
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
     <a href="https://www.ece.utoronto.ca/">
         <img src="readme_assets/ece_uoft.png" alt="Department of Electrical & Computer Engineering" style="height:100px; width:auto;">
     </a>
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://bme.utoronto.ca/">
         <img src="readme_assets/bme_uoft.png" alt="Institude of Biomedical Engineering" style="height:100px; width:auto;">
     </a>
