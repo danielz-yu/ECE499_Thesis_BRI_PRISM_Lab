@@ -8,6 +8,8 @@ A pre-amplifier circuit will be prototyped and tested to specifically improve si
 
 This study aims to demonstrate the technical feasibility of textile-based EEG for wearable BCI applications and its research outcomes are expected to contribute both to academic knowledge and to potential commercialization efforts in collaboration with industry partners. Findings will support the preparation of a publication detailing textile electrode validation, EEG signal amplifier design, and software-based signal filtering, with future applications extending toward wearable BCI systems and clinical use cases.
 
+#
+
 **Research:**
 - **Thesis Title:** Development and Characterization of Textile-Electrode Electroencephalogram Systems for 
 Brain-Computer Interfaces
@@ -19,6 +21,7 @@ Brain-Computer Interfaces
 - 📚 [Interim Report](https://github.com/danielz-yu/ECE499_Thesis_BRI_PRISM_Lab/blob/main/ece499_deliverables/interim_report/ECE499%20Interim%20Report%20%7C%20Daniel%20Yu.pdf)
 - 📔 Thesis
 
+#
 <br>
 
 <div align="center">
