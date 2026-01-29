@@ -1212,11 +1212,11 @@ def main():
     parser = argparse.ArgumentParser(
         description='XDF Folder Viewer - Analyze EEG data from all XDF files in a folder',
         formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Examples:
-  python plot_xdf.py /path/to/folder                    # Analyze all XDF files in folder
-  python plot_xdf.py /path/to/folder --analysis blink   # Include blink epoch analysis
-        """
+        epilog= """
+                Examples:
+                python plot_xdf.py /path/to/folder                    # Analyze all XDF files in folder
+                python plot_xdf.py /path/to/folder --analysis blink   # Include blink epoch analysis
+                """,
     )
     parser.add_argument('folder', nargs='?', help='Path to folder containing XDF files')
     parser.add_argument('--analysis', choices=['blink'], 
