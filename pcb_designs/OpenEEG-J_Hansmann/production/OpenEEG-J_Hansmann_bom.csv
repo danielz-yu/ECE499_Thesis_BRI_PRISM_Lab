@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0402,1,10nF,
+"C2, C3",0402,2,0.1nF,
+J1,SolderWirePad,1,VDD,
+J2,SolderWirePad,1,VSS,
+J3,Snap_Button_Electrode,1,Input,
+J4,SolderWirePad,1,Output,
+R1,0402,1,200kΩ,
+R2,0402,1,10kΩ,
+R3,0402,1,100Ω,
+U1,SOT65P210X110-5N,1,OPA378,

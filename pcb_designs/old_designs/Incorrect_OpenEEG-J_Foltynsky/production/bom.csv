@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0402,1,100nF,
+J1,SolderWirePad,1,VDD,
+J2,SolderWirePad,1,VSS,
+J3,Snap_Button_Electrode,1,Input,
+J4,SolderWirePad,1,Output,
+R1,0402,1,200kΩ,
+"U1, U2",SOT95P280X145-5N,2,~,
