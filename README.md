@@ -19,7 +19,7 @@ Brain-Computer Interfaces
 **Deliverables:**
 - ✏️ [Proposal](https://github.com/danielz-yu/ECE499_Thesis_BRI_PRISM_Lab/blob/main/ece499_deliverables/proposal/ECE499%20Thesis%20Proposal%20%7C%20Daniel%20Yu.pdf)
 - 📚 [Interim Report](https://github.com/danielz-yu/ECE499_Thesis_BRI_PRISM_Lab/blob/main/ece499_deliverables/interim_report/ECE499%20Interim%20Report%20%7C%20Daniel%20Yu.pdf)
-- 📔 Thesis
+- 📔 [Thesis](https://github.com/danielz-yu/ECE499_Thesis_BRI_PRISM_Lab/blob/main/ece499_deliverables/final_thesis/ECE499%20Final%20Thesis%20Report%20%7C%20Daniel%20Yu.pdf)
 
 #
 <br>
