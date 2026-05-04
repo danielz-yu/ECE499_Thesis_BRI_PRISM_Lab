@@ -211,3 +211,6 @@ myant_analysis/similar_examples/
 
 # ECE499Y Rubrics
 ece499_deliverables/rubrics_and_comments/
+
+# Large EEG data files
+data_analysis/
